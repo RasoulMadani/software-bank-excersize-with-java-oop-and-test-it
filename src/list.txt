@@ -1,0 +1,9 @@
+8 500
+1 1 82 mj office
+9 1 82 mj office
+13 2 88 mj ubuntu
+20 2 88 ali gparted
+25 2 88 mj ubuntu
+20 12 90 hassan ubuntu
+27 12 90 ali pes
+1 1 91 ali pes
